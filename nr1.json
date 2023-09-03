@@ -1,6 +1,6 @@
 {
-    "schemaType": "NERDPACK",
-    "id": "74f91667-375f-4752-aa94-3121318d5942",
-    "displayName": "MyAwesomeNerdpack",
-    "description": "Nerdpack my-awesome-nerdpack"
+  "schemaType": "NERDPACK",
+  "id": "74f91667-375f-4752-aa94-3121318d5942",
+  "displayName": "MyAwesomeNerdpack",
+  "description": "Nerdpack my-awesome-nerdpack"
 }
