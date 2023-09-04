@@ -22,7 +22,7 @@ const HomeNerdlet = () => {
   return (
     <div>
       <BillboardChart data={[clickCount]} />
-      <button onClick={() => setCount(count + 1)}>Increment count</button>
+      {/* <button onClick={() => setCount(count + 1)}>Increment count</button> */}
     </div>
   );
 };
